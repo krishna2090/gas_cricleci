@@ -10,6 +10,7 @@
 runtime: python27
 api_version: 1
 threadsafe: yes
+module: circleci
 
 # Handlers define how to route requests to your application.
 handlers:
